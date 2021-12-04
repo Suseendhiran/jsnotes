@@ -1,0 +1,23 @@
+Browser js
+1.Cannot Access files - No filesystems Accessability
+2.Can Access window object
+3.Can Access Document Object
+4.Client side
+5.Doesn't have access to global variabe
+
+Node js
+1.Having Filesystems Accessability
+2.Doesn't have window object Access
+3.Doesn't have Document object
+4.Server side
+5.Can access global variable
+
+typeof(1) -> number - 1 is integer
+typeof(1.1) -> number - 1 is float
+typeof('1.1') -> string - "1.1"
+typeof(true) -> boolean - true/false is boolean
+typeof(null) -> object
+typeof(undefined) -> undefined
+typeof([]) -> object - type of Array in js object
+typeof({}) -> object
+typeof(NaN) -> number
